@@ -33,6 +33,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 #
+
+### 📺 Latest YouTube Videos
+
 #
 <!--
 <details>
@@ -43,3 +46,4 @@ While I hadn't contemplated this career path before, I soon realized that it was
 
 I am grateful for stumbling upon a field that ignites my passion and allows me to wholeheartedly invest myself in my work. Despite the uncertainties that initially surrounded my journey, I have come to embrace the challenges and relish the rewards that come with them. Through perseverance and determination, I continue to push myself to new heights, eager to explore all that the world of programming has to offer.
 -->
+<!--
