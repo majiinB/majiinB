@@ -33,7 +33,7 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-
+---
 <details>
  <summary><h3>👨‍💻 Majin's Coding Journey</h3></summary>
    My journey into the world of programming was unexpected, as I initially envisioned a career in architecture or engineering. Circumstances led me to pursue a course in computer science, a path I hadn't previously considered. Yet, it turned out to be a serendipitous turn of events, as I discovered a newfound passion and purpose within the field. While I hadn't contemplated this career path before, I soon realized that it was where my heart truly belonged. At first, the transition was challenging, but with time, I found solace in overcoming those initial obstacles. Each hurdle became an opportunity for personal growth and development. I am grateful for stumbling upon a field that ignites my passion and allows me to wholeheartedly invest myself in my work. Despite the uncertainties that initially surrounded my journey, I have come to embrace the challenges and relish the rewards that come with them. Through perseverance and determination, I continue to push myself to new heights, eager to explore all that the world of programming has to offer.
