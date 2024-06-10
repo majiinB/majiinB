@@ -4,8 +4,6 @@
 
 👋 Hello there! I'm Arthur Artugue, a Backend Developer passionate about technology and innovation. You can usually find me reading articles about new tech trends, tinkering with Arduino projects, or hitting the gym for a good workout.
 
-🚀 Currently, I'm working on my personal portfolio to showcase my projects and skills. I'm also busy developing the "Deck" mobile application, a productivity tool aimed at helping users streamline their workflow and enhance their learning experience.
-
 💡 I'm always eager to learn and collaborate on exciting projects in the world of backend development. Feel free to reach out to me for discussions, collaborations, or just to say hi!
 
 
