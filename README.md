@@ -34,7 +34,7 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majiinB&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majiinB&layout=donut)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majiinB)](https://github.com/majiinB/github-readme-stats)
 
 ---
 
