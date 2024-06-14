@@ -33,6 +33,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majiinB&theme=gruvbox_icons=true)
+
+---
+
 
 <details>
  <summary><h3>👨‍💻 Majin's Coding Journey</h3></summary>
