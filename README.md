@@ -33,8 +33,10 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majiinB&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majiinB)](https://github.com/majiinB/github-readme-stats)
+<div align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=majiinB&hide=prs,issues&include_all_commits=true&count_private=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majiinB&theme=dark&hide_border=false&&layout=compact"/>
+</div>
 
 ---
 
