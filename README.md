@@ -2,7 +2,7 @@
 
 **`Backend Developer | Tech Enthusiast | Arduino Hobbyist | Fitness Fanatic`**
 
-👋 Hello there! I'm Arthur Artugue, a Backend Developer passionate about technology and innovation. You can usually find me reading articles about new tech trends, tinkering with Arduino projects, or hitting the gym for a good workout.
+👋 Hello there! I'm Arthur Artugue, a Student Specializing in Backend Development, and passionate about technology and innovation. You can usually find me reading articles about new tech trends, tinkering with Arduino projects, or hitting the gym for a good workout.
 
 💡 I'm always eager to learn and collaborate on exciting projects in the world of backend development. Feel free to reach out to me for discussions, collaborations, or just to say hi!
 
